@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EE964FAF-570D-45D8-B2B8-1362872781BB}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordBot/CoronaBot.cs">
+    <Files>
+      <File FileName="DiscordBot/Program.cs" Line="20" Column="10" />
+      <File FileName="DiscordBot/config.json" />
+      <File FileName="DiscordBot/ConfigJson.cs" />
+      <File FileName="DiscordBot/IBot.cs" />
+      <File FileName="DiscordBot/CoronaMetrics.cs" />
+      <File FileName="DiscordBot/CoronaBot.cs" Line="35" Column="15" />
+      <File FileName="DiscordBot/DiscordBot.csproj" />
+      <File FileName="DiscordBot/Commands/CountryCommands.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscordBot" expanded="True">
+            <Node name="DiscordBot" expanded="True">
+              <Node name="Commands" expanded="True" />
+              <Node name="CoronaBot.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DiscordBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
